@@ -1,0 +1,2 @@
+traIdealControl/traIdealControl.C
+LIB = $(FOAM_USER_LIBBIN)/libmyfiniteVolume
